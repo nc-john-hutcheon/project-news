@@ -40,8 +40,5 @@
       "jest-extended/all",
       "jest-sorted"
     ]
-  },
-  "engines": {
-  "node": "23.x"
-}
+  }
 }
